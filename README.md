@@ -130,6 +130,32 @@ I specialize in:
    - **Secure and encrypted communication**.  
 
 ---
+###  Other Work 
+**Brasaorosa (E-commerce Platform)** - 🛒
+
+🔹 **Overview:** Brasaorosa is a dynamic **e-commerce platform** offering a seamless shopping experience with advanced features for customers and sellers alike. 
+
+🔹 **Key Features:**  
+   - 🛍️ **User-friendly product catalog** with search and filter options.  
+   - 🏷️ **Secure payment gateway** integration for hassle-free transactions.  
+   - 📦 **Order management system** for tracking purchases and deliveries.  
+   - ⭐ **Customer reviews and ratings** for product credibility.  
+   - 📊 **Dashboard analytics** for business insights and sales tracking.  
+   - 📱 **Mobile-friendly design** ensuring accessibility on various devices.  
+   - 🔐 **Secure authentication system** for user data protection.  
+
+🔹 **QA Involvement & Skills Used:**  
+   - 🛠️ **Manual Testing**: Functional, UI/UX, Regression, Smoke, and UAT.  
+   - 🔄 **Automation Testing**: Cypress for automated end-to-end testing.  
+   - ⚡ **Performance Testing**: JMeter for load and stress testing.  
+   - 🔍 **API Testing**: Postman for REST API validation and verification.  
+   - 🎯 **Bug Tracking**: Jira, YouTrack, and TestRail for defect tracking.  
+   - 📑 **Test Case Design & Execution**: Creating and executing detailed test cases.  
+   - 🔄 **Agile Methodology**: Scrum-based test cycles and sprint planning.  
+   - 🌐 **Cross-browser Testing**: Ensuring compatibility across multiple browsers.  
+   - 🛒 **E-commerce Domain Testing**: Testing payment flows, inventory, and order processing.  
+
+---
 
 ## 🛠️ Skills & Tools  
 
